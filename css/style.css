@@ -1,0 +1,58 @@
+.carousel-inner a{
+  text-decoration: none;
+  color: white;
+}
+
+.row{
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.head-content1{
+  text-align: center;
+  padding: 1rem;
+}
+
+.tabelle{
+  padding: 1rem;
+}
+.aside{
+ padding: 0;
+ text-align: center;
+}
+
+.aside h1{
+  padding-top: 1rem;
+}
+
+h1{
+  color: darkslateblue;
+}
+
+.textanimation_stil {
+  font-size: 40px;
+  color:darkslateblue;
+  font-weight: 700;
+  
+}
+
+.textanimation_text:before {
+	content: 'Das letzte Auswärtsspiel haben wir';
+	animation: animate infinite 8s;
+}
+@keyframes animate 
+{
+	
+		100%
+	{
+		content: '!!Gewonnen!!';
+  }
+}
+
+.content-row3{
+  text-align: center;
+}
+
+.slideBild .card{
+  position: center;
+}
