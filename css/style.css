@@ -56,3 +56,8 @@ h1{
 .slideBild .card{
   position: center;
 }
+
+.ueberschriftHerren{
+  text-align: center;
+  padding-top: 1rem;
+}
